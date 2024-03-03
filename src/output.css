@@ -640,20 +640,12 @@ video {
   width: 2.25rem;
 }
 
-.w-full {
-  width: 100%;
-}
-
-.w-\[70\] {
-  width: 70;
-}
-
-.w-\[70\%\] {
-  width: 70%;
-}
-
 .w-\[60\%\] {
   width: 60%;
+}
+
+.w-full {
+  width: 100%;
 }
 
 .grow {
